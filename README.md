@@ -10,20 +10,19 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ## Tracking With Object Detection Demo
 
-<https://user-images.githubusercontent.com/104087274/234874398-75248e8c-6965-4c91-9176-622509f0ad86.mov>
-<https://github.com/lililibin2022/CCHA-YOLO/blob/main/sunlogin_20240320110617.mp4>
+<https://github.com/lililibin2022/CCHA-YOLO/blob/main/demo%20video.mp4>
+
 
 ## Demo Pics
 
 ### Home page
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic1.png" >
+<img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/homepage.bmp" >
 
-### Page after uploading an image and object detection
+### Page after uploading an image
+<img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/video%20ccha.bmp" >
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic3.png" >
-
-### Segmentation task on image
+### task on image
 
 <img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/segmentation.png" >
 
