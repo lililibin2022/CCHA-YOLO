@@ -4,7 +4,7 @@ In order to enable the practical application of the CCHA YOLO model, this has be
 
 ## Demo WebApp
 
-This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
+This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below. Special thanks to the original developer 'CodingMantras(rs_punia)'!!
 
 [yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)
 
@@ -24,7 +24,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### task on image
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/segmentation.png" >
+<img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/detect%20demo.png" >
 
 ## Requirements
 
