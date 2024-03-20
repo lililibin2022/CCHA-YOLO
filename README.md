@@ -15,13 +15,14 @@ In order to enable the practical application of the CCHA YOLO model, this has be
 
 <img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/homepage.bmp" >
 
-### Test on image
+### Test on video
 <img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/video%20ccha.bmp" >
 
-### Test on videos
+
+### Test on uploaded images
 
 <img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/detect%20demo.png" >
-
+<img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/images%20ccha.bmp">
 ## Demo WebApp
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below. Special thanks to the original developer 'CodingMantras(rs_punia)'!!
