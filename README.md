@@ -15,10 +15,10 @@ In order to enable the practical application of the CCHA YOLO model, this has be
 
 <img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/homepage.bmp" >
 
-### Page after uploading an image
+### Test on image
 <img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/video%20ccha.bmp" >
 
-### task on image
+### Test on videos
 
 <img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/detect%20demo.png" >
 
