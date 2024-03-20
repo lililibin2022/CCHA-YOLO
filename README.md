@@ -2,11 +2,7 @@
 
 In order to enable the practical application of the CCHA YOLO model, this has been deployed.
 
-## Demo WebApp
 
-This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below. Special thanks to the original developer 'CodingMantras(rs_punia)'!!
-
-[yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)
 
 ## Tracking With Object Detection Demo
 
@@ -25,6 +21,12 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 ### task on image
 
 <img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/detect%20demo.png" >
+
+## Demo WebApp
+
+This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below. Special thanks to the original developer 'CodingMantras(rs_punia)'!!
+
+[yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)
 
 ## Requirements
 
@@ -105,14 +107,12 @@ VIDEOS_DICT = {
 - Copy paste the url inside the text box.
 - The detection/segmentation task will start on the YouTube video url
 
-<https://user-images.githubusercontent.com/104087274/226178296-684ad72a-fe5f-4589-b668-95c835cd8d8a.mov>
-
 ## Acknowledgements
 
-This app is based on the YOLOv8(<https://github.com/ultralytics/ultralytics>) object detection algorithm. The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.
+This app is based on the YOLOv8(<https://github.com/ultralytics/ultralytics>) object detection algorithm. The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface. The original developer of this application is attributed to 'CodingMantras(rs_punia)'. THANKS!!!
 
 ### Disclaimer
 
 Please note that this project is intended for educational purposes only and should not be used in production environments.
 
-**Hit star ⭐ if you like this repo!!!**
+
