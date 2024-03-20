@@ -7,7 +7,7 @@ In order to enable the practical application of the CCHA YOLO model, this has be
 ## Tracking With Object Detection Demo
 
 <https://github.com/lililibin2022/CCHA-YOLO/blob/main/demo%20video.mp4>
-
+<img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/detect%20demo.png" >
 
 ## Demo Pics
 
@@ -21,7 +21,6 @@ In order to enable the practical application of the CCHA YOLO model, this has be
 
 ### Test on uploaded images
 
-<img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/detect%20demo.png" >
 <img src="https://github.com/lililibin2022/CCHA-YOLO/blob/main/images%20ccha.bmp">
 ## Demo WebApp
 
