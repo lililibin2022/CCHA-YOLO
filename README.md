@@ -11,6 +11,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 ## Tracking With Object Detection Demo
 
 <https://user-images.githubusercontent.com/104087274/234874398-75248e8c-6965-4c91-9176-622509f0ad86.mov>
+<https://github.com/lililibin2022/CCHA-YOLO/blob/main/sunlogin_20240320110617.mp4>
 
 ## Demo Pics
 
